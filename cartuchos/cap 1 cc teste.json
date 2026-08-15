@@ -1,0 +1,316 @@
+{
+  "schema": 1,
+  "id": "cc-personalidade-capacidade",
+  "titulo": "CC — Da Personalidade e da Capacidade",
+  "lei": "Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil) — arts. 1º a 10",
+  "sigla": "cc",
+  "versao": "2026-08-15",
+  "questoes": [
+    {
+      "id": "cc-art2-001",
+      "dispositivo": "art. 2º",
+      "hierarquia": ["Da Personalidade e da Capacidade"],
+      "assuntos": ["personalidade natural"],
+      "enunciado": "Nos termos do Código Civil, a personalidade civil da pessoa:",
+      "alternativas": [
+        { "texto": "começa do nascimento com vida, mas a lei põe a salvo, desde a concepção, os direitos do nascituro.", "correta": true, "comentario": "Redação literal do art. 2º, inclusive quanto à ressalva final em favor do nascituro." },
+        { "texto": "começa do nascimento com vida, sem que a lei confira qualquer proteção aos direitos do nascituro antes desse momento.", "correta": false, "comentario": "Suprimiu a ressalva final do art. 2º, que põe a salvo os direitos do nascituro desde a concepção." },
+        { "texto": "começa da concepção, momento a partir do qual o nascituro é titular de todos os direitos reconhecidos à pessoa nascida.", "correta": false, "comentario": "Antecipou o início da personalidade: a concepção é marco apenas da proteção aos direitos do nascituro, não da personalidade." },
+        { "texto": "começa do registro do nascimento no registro civil, ato que confere existência jurídica à pessoa natural.", "correta": false, "comentario": "O art. 2º não condiciona o início da personalidade ao registro." },
+        { "texto": "começa do nascimento com vida, e a lei põe a salvo os direitos do nascituro apenas a partir do sexto mês de gestação.", "correta": false, "comentario": "Trocou o marco da concepção por termo inexistente na lei." }
+      ],
+      "fundamento": "Art. 2º A personalidade civil da pessoa começa do nascimento com vida; mas a lei põe a salvo, desde a concepção, os direitos do nascituro.",
+      "pegadinha": "excecao_suprimida",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "cc-art3-001",
+      "dispositivo": "art. 3º, caput",
+      "hierarquia": ["Da Personalidade e da Capacidade"],
+      "assuntos": ["capacidade e incapacidade"],
+      "enunciado": "São absolutamente incapazes de exercer pessoalmente os atos da vida civil:",
+      "alternativas": [
+        { "texto": "os menores de 16 (dezesseis) anos.", "correta": true, "comentario": "Redação literal do art. 3º, caput, dada pela Lei nº 13.146/2015." },
+        { "texto": "os menores de 18 (dezoito) anos, ainda que emancipados por concessão de ambos os pais.", "correta": false, "comentario": "Trocou 16 por 18 anos." },
+        { "texto": "os menores de 14 (quatorze) anos, presumida a capacidade a partir dessa idade.", "correta": false, "comentario": "Trocou 16 por 14 anos." },
+        { "texto": "os menores de 16 (dezesseis) anos e os maiores de dezesseis e menores de dezoito anos.", "correta": false, "comentario": "Os maiores de dezesseis e menores de dezoito são relativamente incapazes (art. 4º, I)." },
+        { "texto": "os menores de 21 (vinte e um) anos, salvo se emancipados na forma da lei.", "correta": false, "comentario": "Trocou 16 por 21 anos." }
+      ],
+      "fundamento": "Art. 3º São absolutamente incapazes de exercer pessoalmente os atos da vida civil os menores de 16 (dezesseis) anos. (Redação dada pela Lei nº 13.146, de 2015) (Vigência)",
+      "pegadinha": "troca_de_prazo",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "cc-art3-002",
+      "dispositivo": "art. 3º, caput e incisos I a III",
+      "hierarquia": ["Da Personalidade e da Capacidade"],
+      "assuntos": ["capacidade e incapacidade"],
+      "enunciado": "Após a redação dada pela Lei nº 13.146/2015 ao art. 3º do Código Civil, o rol dos absolutamente incapazes:",
+      "alternativas": [
+        { "texto": "ficou reduzido ao caput, pois os incisos I, II e III foram revogados.", "correta": true, "comentario": "Os três incisos constam como revogados, restando apenas a hipótese do caput." },
+        { "texto": "passou a abranger também aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade.", "correta": false, "comentario": "Deslocou para o art. 3º hipótese que está no art. 4º, III, entre os relativamente incapazes." },
+        { "texto": "passou a abranger os ébrios habituais e os viciados em tóxico, mantidos os três incisos originais.", "correta": false, "comentario": "Essa hipótese é do art. 4º, II, e os incisos do art. 3º foram revogados." },
+        { "texto": "passou a abranger os pródigos, mantida a redação anterior dos incisos I a III.", "correta": false, "comentario": "Os pródigos estão no art. 4º, IV, e os incisos do art. 3º foram revogados." },
+        { "texto": "permaneceu inalterado pela Lei nº 13.146/2015.", "correta": false, "comentario": "O texto traz redação nova para o caput e a revogação expressa dos três incisos." }
+      ],
+      "fundamento": "Art. 3º São absolutamente incapazes de exercer pessoalmente os atos da vida civil os menores de 16 (dezesseis) anos. (Redação dada pela Lei nº 13.146, de 2015) (Vigência) I - (Revogado) ; (Redação dada pela Lei nº 13.146, de 2015) (Vigência) II - (Revogado) ; (Redação dada pela Lei nº 13.146, de 2015) (Vigência) III - (Revogado) . (Redação dada pela Lei nº 13.146, de 2015) (Vigência)",
+      "pegadinha": "troca_de_rol",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "cc-art4-001",
+      "dispositivo": "art. 4º, caput e incisos I a IV",
+      "hierarquia": ["Da Personalidade e da Capacidade"],
+      "assuntos": ["capacidade e incapacidade"],
+      "enunciado": "Segundo o Código Civil, são incapazes, relativamente a certos atos ou à maneira de os exercer:",
+      "alternativas": [
+        { "texto": "os ébrios habituais e os viciados em tóxico.", "correta": true, "comentario": "Art. 4º, II, com a redação da Lei nº 13.146/2015." },
+        { "texto": "os menores de dezesseis anos e os pródigos.", "correta": false, "comentario": "Os menores de dezesseis anos são absolutamente incapazes (art. 3º); só os pródigos estão no art. 4º, IV." },
+        { "texto": "os indígenas, enquanto não integrados à comunhão nacional.", "correta": false, "comentario": "O parágrafo único remete a capacidade dos indígenas à legislação especial, sem inseri-los no rol." },
+        { "texto": "os maiores de dezoito anos que não tenham economia própria.", "correta": false, "comentario": "Hipótese inexistente no art. 4º; economia própria é requisito de emancipação (art. 5º, parágrafo único, V)." },
+        { "texto": "os que, por causa transitória, não puderem exprimir sua vontade, excluídos os de causa permanente.", "correta": false, "comentario": "Suprimiu parte do inciso III, que abrange causa transitória ou permanente." }
+      ],
+      "fundamento": "Art. 4º São incapazes, relativamente a certos atos ou à maneira de os exercer: (Redação dada pela Lei nº 13.146, de 2015) (Vigência) I - os maiores de dezesseis e menores de dezoito anos; II - os ébrios habituais e os viciados em tóxico; (Redação dada pela Lei nº 13.146, de 2015) (Vigência) III - aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade; (Redação dada pela Lei nº 13.146, de 2015) (Vigência) IV - os pródigos.",
+      "pegadinha": "troca_de_rol",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "cc-art4-002",
+      "dispositivo": "art. 4º, III",
+      "hierarquia": ["Da Personalidade e da Capacidade"],
+      "assuntos": ["capacidade e incapacidade"],
+      "enunciado": "Quanto àqueles que não puderem exprimir sua vontade, o Código Civil os considera incapazes, relativamente a certos atos ou à maneira de os exercer, quando se trate de:",
+      "alternativas": [
+        { "texto": "aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade.", "correta": true, "comentario": "Redação literal do art. 4º, III, dada pela Lei nº 13.146/2015." },
+        { "texto": "aqueles que não puderem exprimir sua vontade, desde que a causa impeditiva seja permanente.", "correta": false, "comentario": "Criou ressalva inexistente: o inciso III alcança também a causa transitória." },
+        { "texto": "aqueles que não puderem exprimir sua vontade, salvo se a impossibilidade decorrer de causa transitória.", "correta": false, "comentario": "Criou ressalva inexistente, excluindo hipótese que o inciso III abrange." },
+        { "texto": "aqueles que não puderem exprimir sua vontade, desde que a incapacidade seja reconhecida em prévia sentença de interdição.", "correta": false, "comentario": "O inciso III não condiciona a incapacidade relativa a prévia interdição." },
+        { "texto": "aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade, salvo quanto aos atos de administração de seus bens.", "correta": false, "comentario": "Acrescentou ressalva que o dispositivo não contém." }
+      ],
+      "fundamento": "Art. 4º São incapazes, relativamente a certos atos ou à maneira de os exercer: (Redação dada pela Lei nº 13.146, de 2015) (Vigência) I - os maiores de dezesseis e menores de dezoito anos; II - os ébrios habituais e os viciados em tóxico; (Redação dada pela Lei nº 13.146, de 2015) (Vigência) III - aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade; (Redação dada pela Lei nº 13.146, de 2015) (Vigência) IV - os pródigos.",
+      "pegadinha": "excecao_inventada",
+      "dificuldade": "medio"
+    },
+    {
+      "id": "cc-art4-003",
+      "dispositivo": "art. 4º, parágrafo único",
+      "hierarquia": ["Da Personalidade e da Capacidade"],
+      "assuntos": ["capacidade e incapacidade"],
+      "enunciado": "A capacidade dos indígenas, segundo o Código Civil, será regulada:",
+      "alternativas": [
+        { "texto": "por legislação especial.", "correta": true, "comentario": "Redação literal do art. 4º, parágrafo único, dada pela Lei nº 13.146/2015." },
+        { "texto": "por ato do órgão federal de assistência ao indígena, ouvida a comunidade a que pertença.", "correta": false, "comentario": "Trocou a fonte normativa: o parágrafo único remete à legislação especial." },
+        { "texto": "pelo juiz da comarca de domicílio, em processo de interdição.", "correta": false, "comentario": "Trocou a fonte normativa por decisão judicial." },
+        { "texto": "pelas regras gerais deste Código, aplicando-se a legislação especial apenas subsidiariamente.", "correta": false, "comentario": "Inverteu a regra do parágrafo único, que remete a matéria à legislação especial." },
+        { "texto": "por resolução do Conselho Nacional de Justiça.", "correta": false, "comentario": "Trocou a fonte normativa por ato administrativo." }
+      ],
+      "fundamento": "Art. 4º São incapazes, relativamente a certos atos ou à maneira de os exercer: (Redação dada pela Lei nº 13.146, de 2015) (Vigência) I - os maiores de dezesseis e menores de dezoito anos; II - os ébrios habituais e os viciados em tóxico; (Redação dada pela Lei nº 13.146, de 2015) (Vigência) III - aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade; (Redação dada pela Lei nº 13.146, de 2015) (Vigência) IV - os pródigos. Parágrafo único. A capacidade dos indígenas será regulada por legislação especial. (Redação dada pela Lei nº 13.146, de 2015) (Vigência)",
+      "pegadinha": "troca_de_competencia",
+      "dificuldade": "medio"
+    },
+    {
+      "id": "cc-art5-001",
+      "dispositivo": "art. 5º, caput",
+      "hierarquia": ["Da Personalidade e da Capacidade"],
+      "assuntos": ["capacidade e incapacidade"],
+      "enunciado": "A menoridade cessa aos dezoito anos completos, quando a pessoa fica habilitada à prática:",
+      "alternativas": [
+        { "texto": "de todos os atos da vida civil.", "correta": true, "comentario": "Redação literal do art. 5º, caput." },
+        { "texto": "apenas dos atos de administração.", "correta": false, "comentario": "Restringiu o alcance, que o caput define como todos os atos da vida civil." },
+        { "texto": "dos atos da vida civil, exceto os de disposição de bens imóveis.", "correta": false, "comentario": "Criou restrição não prevista no caput." },
+        { "texto": "dos atos da vida civil, ressalvados os que dependam de assistência dos pais.", "correta": false, "comentario": "O caput não ressalva atos dependentes de assistência." },
+        { "texto": "de todos os atos da vida civil, salvo o casamento, que exige autorização judicial.", "correta": false, "comentario": "Acrescentou exceção inexistente no caput." }
+      ],
+      "fundamento": "Art. 5º A menoridade cessa aos dezoito anos completos, quando a pessoa fica habilitada à prática de todos os atos da vida civil.",
+      "pegadinha": "troca_de_quantificador",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "cc-art5-002",
+      "dispositivo": "art. 5º, parágrafo único, I",
+      "hierarquia": ["Da Personalidade e da Capacidade"],
+      "assuntos": ["emancipação"],
+      "enunciado": "Cessará a incapacidade do menor que tiver dezesseis anos completos pela concessão dos pais, ou de um deles na falta do outro:",
+      "alternativas": [
+        { "texto": "mediante instrumento público, independentemente de homologação judicial.", "correta": true, "comentario": "Redação literal do art. 5º, parágrafo único, I." },
+        { "texto": "mediante instrumento público, desde que homologado pelo juiz do domicílio do menor.", "correta": false, "comentario": "O inciso I dispensa expressamente a homologação judicial." },
+        { "texto": "mediante instrumento particular registrado no registro civil das pessoas naturais.", "correta": false, "comentario": "Trocou a forma exigida: o inciso I exige instrumento público." },
+        { "texto": "mediante termo lavrado perante o Ministério Público, com posterior registro.", "correta": false, "comentario": "Trocou o órgão e a forma previstos no inciso I." },
+        { "texto": "mediante escritura pública, ouvido previamente o Ministério Público e homologada por sentença.", "correta": false, "comentario": "Acrescentou exigências que o inciso I afasta ao dispensar a homologação judicial." }
+      ],
+      "fundamento": "Art. 5º A menoridade cessa aos dezoito anos completos, quando a pessoa fica habilitada à prática de todos os atos da vida civil. Parágrafo único. Cessará, para os menores, a incapacidade: I - pela concessão dos pais, ou de um deles na falta do outro, mediante instrumento público, independentemente de homologação judicial, ou por sentença do juiz, ouvido o tutor, se o menor tiver dezesseis anos completos; II - pelo casamento; III - pelo exercício de emprego público efetivo; IV - pela colação de grau em curso de ensino superior; V - pelo estabelecimento civil ou comercial, ou pela existência de relação de emprego, desde que, em função deles, o menor com dezesseis anos completos tenha economia própria.",
+      "pegadinha": "troca_de_competencia",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "cc-art5-003",
+      "dispositivo": "art. 5º, parágrafo único, I",
+      "hierarquia": ["Da Personalidade e da Capacidade"],
+      "assuntos": ["emancipação"],
+      "enunciado": "Na emancipação voluntária do menor com dezesseis anos completos, o Código Civil atribui a concessão:",
+      "alternativas": [
+        { "texto": "aos pais, ou a um deles na falta do outro.", "correta": true, "comentario": "Art. 5º, parágrafo único, I: a concessão cabe aos pais, ou a um deles na falta do outro." },
+        { "texto": "ao tutor, ouvidos os pais.", "correta": false, "comentario": "Inverteu os sujeitos: o tutor é apenas ouvido quando a emancipação se dá por sentença do juiz." },
+        { "texto": "ao juiz, ouvidos obrigatoriamente ambos os pais, ainda que haja instrumento público.", "correta": false, "comentario": "Inverteu os sujeitos: na via judicial ouve-se o tutor, e não os pais." },
+        { "texto": "ao próprio menor, mediante declaração ratificada por duas testemunhas maiores.", "correta": false, "comentario": "O inciso I não confere ao menor a iniciativa da concessão." },
+        { "texto": "ao Ministério Público, na falta de ambos os pais, independentemente de instrumento público.", "correta": false, "comentario": "Inverteu a legitimidade prevista no inciso I." }
+      ],
+      "fundamento": "Art. 5º A menoridade cessa aos dezoito anos completos, quando a pessoa fica habilitada à prática de todos os atos da vida civil. Parágrafo único. Cessará, para os menores, a incapacidade: I - pela concessão dos pais, ou de um deles na falta do outro, mediante instrumento público, independentemente de homologação judicial, ou por sentença do juiz, ouvido o tutor, se o menor tiver dezesseis anos completos; II - pelo casamento; III - pelo exercício de emprego público efetivo; IV - pela colação de grau em curso de ensino superior; V - pelo estabelecimento civil ou comercial, ou pela existência de relação de emprego, desde que, em função deles, o menor com dezesseis anos completos tenha economia própria.",
+      "pegadinha": "inversao_de_sujeito",
+      "dificuldade": "medio"
+    },
+    {
+      "id": "cc-art5-004",
+      "dispositivo": "art. 5º, parágrafo único, V",
+      "hierarquia": ["Da Personalidade e da Capacidade"],
+      "assuntos": ["emancipação"],
+      "enunciado": "Cessará a incapacidade do menor pelo estabelecimento civil ou comercial, ou pela existência de relação de emprego, desde que:",
+      "alternativas": [
+        { "texto": "em função deles, o menor com dezesseis anos completos tenha economia própria.", "correta": true, "comentario": "Redação literal do art. 5º, parágrafo único, V." },
+        { "texto": "o menor tenha dezesseis anos completos, ainda que não disponha de economia própria.", "correta": false, "comentario": "Suprimiu o requisito da economia própria, exigido pelo inciso V." },
+        { "texto": "o menor tenha economia própria, qualquer que seja sua idade ao tempo do estabelecimento.", "correta": false, "comentario": "Suprimiu o requisito etário de dezesseis anos completos." },
+        { "texto": "o estabelecimento ou o emprego sejam autorizados por sentença do juiz, ouvidos os pais.", "correta": false, "comentario": "O inciso V não exige autorização judicial." },
+        { "texto": "o menor com quatorze anos completos tenha, em função deles, economia própria e residência autônoma.", "correta": false, "comentario": "Trocou a idade e acrescentou requisito inexistente." }
+      ],
+      "fundamento": "Art. 5º A menoridade cessa aos dezoito anos completos, quando a pessoa fica habilitada à prática de todos os atos da vida civil. Parágrafo único. Cessará, para os menores, a incapacidade: I - pela concessão dos pais, ou de um deles na falta do outro, mediante instrumento público, independentemente de homologação judicial, ou por sentença do juiz, ouvido o tutor, se o menor tiver dezesseis anos completos; II - pelo casamento; III - pelo exercício de emprego público efetivo; IV - pela colação de grau em curso de ensino superior; V - pelo estabelecimento civil ou comercial, ou pela existência de relação de emprego, desde que, em função deles, o menor com dezesseis anos completos tenha economia própria.",
+      "pegadinha": "excecao_suprimida",
+      "dificuldade": "dificil"
+    },
+    {
+      "id": "cc-art6-001",
+      "dispositivo": "art. 6º",
+      "hierarquia": ["Da Personalidade e da Capacidade"],
+      "assuntos": ["personalidade natural", "morte presumida"],
+      "enunciado": "A existência da pessoa natural termina com a morte, que se presume, quanto aos ausentes:",
+      "alternativas": [
+        { "texto": "nos casos em que a lei autoriza a abertura de sucessão definitiva.", "correta": true, "comentario": "Redação literal do art. 6º." },
+        { "texto": "nos casos em que a lei autoriza a abertura de sucessão provisória.", "correta": false, "comentario": "Trocou sucessão definitiva por provisória." },
+        { "texto": "desde a data da decretação da ausência pelo juiz.", "correta": false, "comentario": "O art. 6º vincula a presunção à abertura da sucessão definitiva, não à decretação da ausência." },
+        { "texto": "desde a arrecadação dos bens do ausente e a nomeação de curador.", "correta": false, "comentario": "Confundiu a fase inicial da ausência com a presunção de morte do art. 6º." },
+        { "texto": "a partir da sentença que declara a nulidade dos atos praticados pelo desaparecido.", "correta": false, "comentario": "Hipótese inexistente no art. 6º." }
+      ],
+      "fundamento": "Art. 6º A existência da pessoa natural termina com a morte; presume-se esta, quanto aos ausentes, nos casos em que a lei autoriza a abertura de sucessão definitiva.",
+      "pegadinha": "troca_de_termo_tecnico",
+      "dificuldade": "medio"
+    },
+    {
+      "id": "cc-art7-001",
+      "dispositivo": "art. 7º, I",
+      "hierarquia": ["Da Personalidade e da Capacidade"],
+      "assuntos": ["morte presumida"],
+      "enunciado": "Pode ser declarada a morte presumida, sem decretação de ausência, se:",
+      "alternativas": [
+        { "texto": "for extremamente provável a morte de quem estava em perigo de vida.", "correta": true, "comentario": "Redação literal do art. 7º, I." },
+        { "texto": "for extremamente provável a morte de quem expôs outrem a perigo de vida.", "correta": false, "comentario": "Inverteu o sujeito: o inciso I alcança quem estava em perigo, não quem o provocou." },
+        { "texto": "houver perigo de vida para os herdeiros do desaparecido, ainda que este seja localizado.", "correta": false, "comentario": "Inverteu o sujeito da situação de perigo." },
+        { "texto": "for provável, ainda que remotamente, a morte de quem estava em perigo de vida.", "correta": false, "comentario": "Enfraqueceu o grau exigido: o inciso I fala em morte extremamente provável." },
+        { "texto": "o desaparecido houver sido previamente declarado ausente pelo juiz e estivesse em perigo de vida.", "correta": false, "comentario": "O caput do art. 7º dispensa a decretação de ausência." }
+      ],
+      "fundamento": "Art. 7º Pode ser declarada a morte presumida, sem decretação de ausência: I - se for extremamente provável a morte de quem estava em perigo de vida; II - se alguém, desaparecido em campanha ou feito prisioneiro, não for encontrado até dois anos após o término da guerra.",
+      "pegadinha": "inversao_de_sujeito",
+      "dificuldade": "medio"
+    },
+    {
+      "id": "cc-art7-002",
+      "dispositivo": "art. 7º, II",
+      "hierarquia": ["Da Personalidade e da Capacidade"],
+      "assuntos": ["morte presumida"],
+      "enunciado": "Pode ser declarada a morte presumida, sem decretação de ausência, se alguém, desaparecido em campanha ou feito prisioneiro, não for encontrado até:",
+      "alternativas": [
+        { "texto": "dois anos após o término da guerra.", "correta": true, "comentario": "Redação literal do art. 7º, II." },
+        { "texto": "seis meses após o término da guerra.", "correta": false, "comentario": "Trocou dois anos por seis meses." },
+        { "texto": "quatro anos após o término da guerra.", "correta": false, "comentario": "Trocou dois anos por quatro anos." },
+        { "texto": "dois anos após o desaparecimento em campanha, ainda que a guerra prossiga.", "correta": false, "comentario": "Trocou o termo inicial: o prazo corre do término da guerra." },
+        { "texto": "dez anos após o término da guerra, contados da sentença declaratória de ausência.", "correta": false, "comentario": "Trocou o prazo e acrescentou condição inexistente." }
+      ],
+      "fundamento": "Art. 7º Pode ser declarada a morte presumida, sem decretação de ausência: I - se for extremamente provável a morte de quem estava em perigo de vida; II - se alguém, desaparecido em campanha ou feito prisioneiro, não for encontrado até dois anos após o término da guerra.",
+      "pegadinha": "troca_de_prazo",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "cc-art7-003",
+      "dispositivo": "art. 7º, parágrafo único",
+      "hierarquia": ["Da Personalidade e da Capacidade"],
+      "assuntos": ["morte presumida"],
+      "enunciado": "A declaração da morte presumida, nas hipóteses do art. 7º do Código Civil:",
+      "alternativas": [
+        { "texto": "somente poderá ser requerida depois de esgotadas as buscas e averiguações, devendo a sentença fixar a data provável do falecimento.", "correta": true, "comentario": "Redação literal do art. 7º, parágrafo único." },
+        { "texto": "poderá ser requerida a qualquer tempo, independentemente do esgotamento das buscas e averiguações, cabendo à sentença fixar a data provável do falecimento.", "correta": false, "comentario": "Eliminou o advérbio somente e a exigência de prévio esgotamento das buscas e averiguações." },
+        { "texto": "somente poderá ser requerida depois de esgotadas as buscas e averiguações, sendo facultado ao juiz deixar de fixar a data provável do falecimento.", "correta": false, "comentario": "Transformou em faculdade o que o parágrafo único impõe à sentença." },
+        { "texto": "poderá ser requerida desde que decorridos dois anos das buscas, dispensada a fixação da data do falecimento.", "correta": false, "comentario": "Criou prazo inexistente e afastou dever previsto no parágrafo único." },
+        { "texto": "somente poderá ser requerida pelo Ministério Público, após esgotadas as buscas e averiguações.", "correta": false, "comentario": "Restringiu a legitimidade, o que o parágrafo único não faz." }
+      ],
+      "fundamento": "Art. 7º Pode ser declarada a morte presumida, sem decretação de ausência: I - se for extremamente provável a morte de quem estava em perigo de vida; II - se alguém, desaparecido em campanha ou feito prisioneiro, não for encontrado até dois anos após o término da guerra. Parágrafo único. A declaração da morte presumida, nesses casos, somente poderá ser requerida depois de esgotadas as buscas e averiguações, devendo a sentença fixar a data provável do falecimento.",
+      "pegadinha": "troca_de_quantificador",
+      "dificuldade": "medio"
+    },
+    {
+      "id": "cc-art8-001",
+      "dispositivo": "art. 8º",
+      "hierarquia": ["Da Personalidade e da Capacidade"],
+      "assuntos": ["personalidade natural"],
+      "enunciado": "Se dois ou mais indivíduos falecerem na mesma ocasião, não se podendo averiguar se algum dos comorientes precedeu aos outros:",
+      "alternativas": [
+        { "texto": "presumir-se-ão simultaneamente mortos.", "correta": true, "comentario": "Redação literal do art. 8º." },
+        { "texto": "presumir-se-á que faleceu primeiro o mais velho.", "correta": false, "comentario": "Criou critério de precedência que o art. 8º não prevê." },
+        { "texto": "presumir-se-ão simultaneamente mortos, salvo se houver entre eles parentesco em linha reta.", "correta": false, "comentario": "Acrescentou ressalva inexistente no art. 8º." },
+        { "texto": "presumir-se-á que faleceu por último aquele que tinha melhores condições de sobrevivência.", "correta": false, "comentario": "Criou critério de precedência inexistente na lei." },
+        { "texto": "abrir-se-á a sucessão provisória de ambos, até que se apure a ordem dos falecimentos.", "correta": false, "comentario": "O art. 8º resolve a dúvida pela presunção de morte simultânea, sem remeter à sucessão provisória." }
+      ],
+      "fundamento": "Art. 8º Se dois ou mais indivíduos falecerem na mesma ocasião, não se podendo averiguar se algum dos comorientes precedeu aos outros, presumir-se-ão simultaneamente mortos.",
+      "pegadinha": "excecao_inventada",
+      "dificuldade": "facil"
+    },
+    {
+      "id": "cc-art9-001",
+      "dispositivo": "art. 9º",
+      "hierarquia": ["Da Personalidade e da Capacidade"],
+      "assuntos": ["registro público", "emancipação"],
+      "enunciado": "A respeito dos atos sujeitos a registro público, o Código Civil estabelece que:",
+      "alternativas": [
+        { "texto": "serão registrados os nascimentos, casamentos e óbitos.", "correta": true, "comentario": "Art. 9º, caput e I: o registro é imposto ('serão registrados'), não facultado." },
+        { "texto": "deverá ser averbada a sentença declaratória de ausência.", "correta": false, "comentario": "O art. 9º, IV, sujeita essa sentença a registro, e não a averbação." },
+        { "texto": "poderão ser registrados, a critério dos interessados, os nascimentos, casamentos e óbitos.", "correta": false, "comentario": "Trocou o dever pelo verbo facultativo." },
+        { "texto": "poderá ser registrada a emancipação por outorga dos pais, sendo obrigatório o registro apenas da concedida por sentença.", "correta": false, "comentario": "Trocou o dever por faculdade e criou distinção que o art. 9º, II, não faz." },
+        { "texto": "serão registradas, facultativamente, a interdição por incapacidade absoluta e, obrigatoriamente, a por incapacidade relativa.", "correta": false, "comentario": "O art. 9º, III, impõe o registro da interdição por incapacidade absoluta ou relativa." }
+      ],
+      "fundamento": "Art. 9º Serão registrados em registro público: I - os nascimentos, casamentos e óbitos; II - a emancipação por outorga dos pais ou por sentença do juiz; III - a interdição por incapacidade absoluta ou relativa; IV - a sentença declaratória de ausência e de morte presumida.",
+      "pegadinha": "troca_de_modal",
+      "dificuldade": "medio"
+    },
+    {
+      "id": "cc-art10-001",
+      "dispositivo": "art. 10, I",
+      "hierarquia": ["Da Personalidade e da Capacidade"],
+      "assuntos": ["registro público"],
+      "enunciado": "Quanto às sentenças que decretam o divórcio e o restabelecimento da sociedade conjugal, o Código Civil dispõe que:",
+      "alternativas": [
+        { "texto": "far-se-á averbação em registro público.", "correta": true, "comentario": "Art. 10, caput e I: a averbação é imperativa." },
+        { "texto": "far-se-á novo registro público de casamento.", "correta": false, "comentario": "O art. 10 determina averbação, e não novo registro." },
+        { "texto": "poderá ser feita averbação em registro público, a requerimento de qualquer interessado.", "correta": false, "comentario": "Trocou o comando imperativo do caput por faculdade do interessado." },
+        { "texto": "far-se-á averbação apenas quanto ao divórcio, sendo facultativa quanto ao restabelecimento da sociedade conjugal.", "correta": false, "comentario": "O inciso I impõe a averbação a ambas as hipóteses." },
+        { "texto": "poderá o juiz determinar a averbação, se a entender necessária à segurança das relações jurídicas.", "correta": false, "comentario": "Transformou em juízo discricionário o que o art. 10 impõe." }
+      ],
+      "fundamento": "Art. 10. Far-se-á averbação em registro público: I - das sentenças que decretarem a nulidade ou anulação do casamento, o divórcio, a separação judicial e o restabelecimento da sociedade conjugal; II - dos atos judiciais ou extrajudiciais que declararem ou reconhecerem a filiação; III - (Revogado pela Lei nº 12.010, de 2009)",
+      "pegadinha": "troca_de_modal",
+      "dificuldade": "medio"
+    },
+    {
+      "id": "cc-art10-002",
+      "dispositivo": "art. 10, II",
+      "hierarquia": ["Da Personalidade e da Capacidade"],
+      "assuntos": ["registro público"],
+      "enunciado": "Os atos judiciais ou extrajudiciais que declararem ou reconhecerem a filiação estão sujeitos a:",
+      "alternativas": [
+        { "texto": "averbação em registro público.", "correta": true, "comentario": "Art. 10, II." },
+        { "texto": "simples anotação no assento de nascimento.", "correta": false, "comentario": "Trocou o termo técnico empregado pelo art. 10, II." },
+        { "texto": "registro público, na forma do art. 9º do Código Civil.", "correta": false, "comentario": "Confundiu registro com averbação: a filiação reconhecida sujeita-se à averbação." },
+        { "texto": "averbação, quando judiciais, e registro, quando extrajudiciais.", "correta": false, "comentario": "O art. 10, II, submete ambos à averbação." },
+        { "texto": "inscrição no registro de títulos e documentos do domicílio do reconhecido.", "correta": false, "comentario": "Trocou o ato e o serviço registral previstos no art. 10, II." }
+      ],
+      "fundamento": "Art. 10. Far-se-á averbação em registro público: I - das sentenças que decretarem a nulidade ou anulação do casamento, o divórcio, a separação judicial e o restabelecimento da sociedade conjugal; II - dos atos judiciais ou extrajudiciais que declararem ou reconhecerem a filiação; III - (Revogado pela Lei nº 12.010, de 2009)",
+      "pegadinha": "troca_de_termo_tecnico",
+      "dificuldade": "medio"
+    }
+  ]
+}
