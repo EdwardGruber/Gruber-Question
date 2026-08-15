@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Questões</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="avisos" class="avisos" role="status" aria-live="polite"></div>
+
+<main id="app">
+
+  <section id="tela-selecao" class="tela">
+    <header class="cabecalho-selecao">
+      <h1 class="marca">Questões</h1>
+      <p id="resumo-manifest" class="resumo"></p>
+    </header>
+    <ul id="lista-cartuchos" class="lista-cartuchos"></ul>
+  </section>
+
+  <section id="tela-estudo" class="tela oculta">
+    <header class="cabecalho-estudo">
+      <button type="button" id="titulo-cartucho" class="titulo-cartucho"></button>
+      <button type="button" id="alternar-arvore" class="alternar-arvore"
+              aria-expanded="false" aria-controls="navegacao">Navegação</button>
+    </header>
+    <div class="colunas">
+      <nav id="navegacao" class="navegacao" aria-label="Navegação por hierarquia">
+        <div id="arvore" class="arvore"></div>
+      </nav>
+      <div id="principal" class="principal"></div>
+    </div>
+  </section>
+
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>
